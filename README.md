@@ -3,7 +3,9 @@
  
  Tech service products like Firebase Real-Time Database (Firebase Console) and Google Map API were implemented in our REMORA app. 
  
+ 
  These are files used for project REMORA:
    REMORA_V8.aia is the latest MIT App Inventor file used in the apk, hence the aia file is required to import into MIT App Inventor for it to be opened. 
-   Spec-redesign-Larger.SLDPRT is the 3D Print file for the physical component of this project. 
+   Spec-redesign-Larger.SLDPRT is the 3D Printing file designed in SOLIDOWRKS for the spectrometer. 
+   index_Edited_DURING FINALS.html is the embedded web app in the android app. 
  
